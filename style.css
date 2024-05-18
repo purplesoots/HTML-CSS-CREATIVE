@@ -1,0 +1,57 @@
+* {
+    margin:20px;
+    padding:20px;
+}
+
+body {
+    width:1000px;
+    min-height:1200px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#Header{
+    width:1000px;
+    height:1200px;
+    margin:10px;
+    padding: 5px;
+    background-color: rgb(236, 208, 236);
+    box-shadow: 0 0 12px 40px purple;
+}
+
+h1{
+    text-align: center;
+}
+
+#Header .Button-1 {
+    background-color: pink;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#Header .Button-2 {
+    background-color: rgb(206, 51, 146);
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#Header .Button-3 {
+    background-color: rgb(146, 5, 146);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+#Header .Button-4 {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Header .Button-5 {
+    background-color: rgb(199, 68, 140);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Header .Amulet {
+    font-size: 30px;
+}
